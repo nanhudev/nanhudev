@@ -123,7 +123,7 @@ Agentic 视频运行时，把整条生产链路串起来：
 
 设计上刻意把 **LLM 推理、教学硬约束、视觉模板** 三者分开——
 而不是让一个模型同时干三件事、每件都做到 70 分。
-**已上线：[bubbleapp.cn/aiteacher](https://bubbleapp.cn/aiteacher/)**
+**已上线：[bubbleapp.cn/aiteacher](https://www.bubbleapp.cn/aiteacher/)**
 
 → [`nanhudev/ai-teacher-coach`](https://github.com/nanhudev/ai-teacher-coach)
 
@@ -211,10 +211,12 @@ Agentic 视频运行时，把整条生产链路串起来：
 ## 关于
 
 **余宣均 / Xuanjun Yu** — 澳门大学。
-BubbleLab 创始人 · [bubbleapp.cn](https://bubbleapp.cn)
+BubbleLab 创始人 · [bubbleapp.cn](https://www.bubbleapp.cn)
 
 > 我构建那些"说法可以被验证"的 AI 系统。
 
 ---
 
 <sub>中英文是同一页的两个平行版本，不是把其中一种附在另一种下面。</sub>
+
+<sub>Machine-readable profile: [www.bubbleapp.cn/portfolio/llms.txt](https://www.bubbleapp.cn/portfolio/llms.txt) · Company overview: [www.bubbleapp.cn/llms.txt](https://www.bubbleapp.cn/llms.txt)</sub>
