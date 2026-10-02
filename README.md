@@ -131,7 +131,7 @@ virtual-student classroom simulation and a teaching evaluation.
 
 The design deliberately splits LLM reasoning, hard teaching constraints and
 visual templates — rather than asking one model to do all three and average
-70% on each. **Live at [bubbleapp.cn/aiteacher](https://bubbleapp.cn/aiteacher/).**
+70% on each. **Live at [bubbleapp.cn/aiteacher](https://www.bubbleapp.cn/aiteacher/).**
 
 → [`nanhudev/ai-teacher-coach`](https://github.com/nanhudev/ai-teacher-coach)
 
@@ -221,10 +221,12 @@ Current focus: **agent infrastructure** · **local-first AI** · **creative AI**
 ## About
 
 **余宣均 / Xuanjun Yu** — University of Macau.
-Founder of BubbleLab · [bubbleapp.cn](https://bubbleapp.cn)
+Founder of BubbleLab · [bubbleapp.cn](https://www.bubbleapp.cn)
 
 > I build AI systems whose claims can be checked.
 
 ---
 
 <sub>English and Chinese are parallel versions of the same page, not a translation appended below the other.</sub>
+
+<sub>Machine-readable profile: [www.bubbleapp.cn/portfolio/llms.txt](https://www.bubbleapp.cn/portfolio/llms.txt) · Company overview: [www.bubbleapp.cn/llms.txt](https://www.bubbleapp.cn/llms.txt)</sub>
