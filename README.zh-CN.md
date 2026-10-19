@@ -10,7 +10,7 @@
 
 | 项目 | 用来做什么 | 体验 |
 | --- | --- | --- |
-| [DockBot](https://github.com/nanhudev/dockbot) | Windows 玻璃 Dock，17 KB 本地意图模型，支持工作空间、应用控制和桌面整理。 | [Windows 下载](https://github.com/nanhudev/dockbot/releases) · [17 KB 短片](https://github.com/nanhudev/dockbot/releases/download/v0.2.0-preview.1/V1_GitHub_17KB.mp4) |
+| [DockBot](https://github.com/nanhudev/dockbot) | Windows 玻璃 Dock，17 KB 本地意图模型，支持工作空间、应用控制和桌面整理。 | [Windows 下载](https://github.com/nanhudev/dockbot/releases) |
 | [Chat2Blend](https://github.com/nanhudev/chat2blend) | 用可见的 AI 协作流程创建与调整 Blender 资产。 | [桌面版下载](https://github.com/nanhudev/chat2blend/releases) |
 | [AI Teacher Coach](https://github.com/nanhudev/ai-teacher-coach) | AI 备课、原文复核与可编辑教学幻灯片。 | [桌面版下载](https://github.com/nanhudev/ai-teacher-coach/releases) |
 | [HTML Video Workflow](https://github.com/nanhudev/html-video-workflow) | 输入主题，使用本地渲染与语音合成，生成含旁白和字幕的 MP4。 | [Windows 下载](https://github.com/nanhudev/html-video-workflow/releases) |
