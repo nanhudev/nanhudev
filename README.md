@@ -10,7 +10,7 @@ I make desktop tools, AI creative workflows, and agent utilities. AI is part of 
 
 | Project | What it does | Try it |
 | --- | --- | --- |
-| [DockBot](https://github.com/nanhudev/dockbot) | A fluid Windows Dock with a 17 KB offline intent model, workspaces, app control, and desktop care. | [Windows download](https://github.com/nanhudev/dockbot/releases) · [28-second video](https://github.com/nanhudev/dockbot/releases/download/v0.1.1-preview.1/DockBot-Short.mp4) |
+| [DockBot](https://github.com/nanhudev/dockbot) | A fluid Windows Dock with a 17 KB offline intent model, workspaces, app control, and desktop care. | [Windows download](https://github.com/nanhudev/dockbot/releases) · [17 KB promo](https://github.com/nanhudev/dockbot/releases/download/v0.2.0-preview.1/V1_GitHub_17KB.mp4) |
 | [Chat2Blend](https://github.com/nanhudev/chat2blend) | Create and refine Blender assets through a visible AI-assisted workflow. | [Desktop downloads](https://github.com/nanhudev/chat2blend/releases) |
 | [AI Teacher Coach](https://github.com/nanhudev/ai-teacher-coach) | Lesson planning, source-text review, and editable teaching slides. | [Desktop downloads](https://github.com/nanhudev/ai-teacher-coach/releases) |
 | [HTML Video Workflow](https://github.com/nanhudev/html-video-workflow) | Turn a topic into a narrated MP4 with subtitles, using local rendering and speech synthesis. | [Windows download](https://github.com/nanhudev/html-video-workflow/releases) |
